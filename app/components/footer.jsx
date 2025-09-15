@@ -15,9 +15,6 @@ export const Footer = () => {
           <a href="#features" className="hover:text-pink-400 transition">
             Features
           </a>
-          <a href="#pricing" className="hover:text-pink-400 transition">
-            Pricing
-          </a>
           <a href="#docs" className="hover:text-pink-400 transition">
             Docs
           </a>
